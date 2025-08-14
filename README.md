@@ -7,7 +7,7 @@ If you share a similar passion or just like to create things, lets connect.
 ## Projects
 
 ### [Web Accessibility Resources](https://v4build.github.io/accessibility/)
-Page with curated resources to help individuals get started with web accessibility.
+Page with curated resources to help individuals and teams get started with web accessibility.
 
 <!--
 **v4build/v4build** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
