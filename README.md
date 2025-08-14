@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am strategic and results-driven Digital Accessibility Leader with over 15 years of experience architecting and scaling enterprise-wide accessibility programs. Proven ability to establish standards, implement robust processes, deliver impactful training, and champion inclusive design across large organizations. I am exploring ways to leverage AI to innovate and advance digital inclusion at scale.
+
+If you share a similar passion or just like to create things, lets connect.
+
 <!--
 **v4build/v4build** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
